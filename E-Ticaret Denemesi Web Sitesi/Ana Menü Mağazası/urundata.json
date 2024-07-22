@@ -1,0 +1,125 @@
+[
+    {
+      "id": 1,
+      "details": "Regular Fit Normal Kesim",
+      "name": "Bisiklet Yaka Siyah T-Shirt",
+      "price": 145,
+      "oldPrice": 195,
+      "starRate": 4,
+      "reviewCount": 250,
+      "stock": 2,
+      "imgSource": "./images/kıyafet1.jpg"
+    },
+    {
+      "id": 39,
+      "details": "Decathlon",
+      "name": "Outdoor Sırt Çantası",
+      "price": 265,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 560,
+      "stock": 188,
+      "imgSource": "./images/sporveoutdoor4.jpg"
+    },
+    {
+      "id": 41,
+      "details": "Decathlon",
+      "name": "Outdoor Şişme Kano",
+      "price": 15990,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 130,
+      "stock": 81,
+      "imgSource": "./images/sporveoutdoor6.jpg"
+    },
+    {
+      "id": 28,
+      "details": "GRUNGE",
+      "name": " Regular T-shirt XXL/Siyah",
+      "price": 319,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 270,
+      "stock": 1881,
+      "imgSource": "./images/grunge.jpg"
+    },
+    {
+      "id": 18,
+      "details": "Beyaz Desenli Kruvaze Yaka Dokuma Elbise",
+      "name": "Yaka Dokuma Elbise",
+      "price": 285,
+      "oldPrice": null,
+      "starRate": 2,
+      "reviewCount": 100,
+      "stock": 111,
+      "imgSource": "./images/kadıngiyim7.jpg"
+    },
+    {
+      "id": 6,
+      "details": "Decathlon",
+      "name": "Erkek Koşu Tişörtü",
+      "price": 410,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 130,
+      "stock": 81,
+      "imgSource": "./images/decathlon.jpg"
+    },
+    {
+      "id": 34,
+      "details": "Çocuk Elbise",
+      "name": "Little Honey Bunnies Çocuk Elbisesi",
+      "price": 350,
+      "oldPrice": null,
+      "starRate": 7,
+      "reviewCount": 333,
+      "stock": 11,
+      "imgSource": "./images/annevecocuk5.jpg"
+    },
+
+    {
+      "id": 31,
+      "details": "Anne-Çocuk Elbise",
+      "name": "Kalın Askılı ve Desenli",
+      "price": 120,
+      "oldPrice": 395,
+      "starRate": 3,
+      "reviewCount": 250,
+      "stock": 1832,
+      "imgSource": "./images/annevecocuk2.jpg"
+    },
+    {
+      "id": 9,
+      "details": "Favorist Baskılı",
+      "name": "T-shirt Serisi L BEDEN",
+      "price": 179.90,
+      "oldPrice": null,
+      "starRate": 4,
+      "reviewCount": 320,
+      "stock": 11,
+      "imgSource": "./images/favoristbaskı.jpg"
+    },
+    {
+      "id": 30,
+      "details": "Anne-Çocuk Elbise",
+      "name": "Selin Baltacıoğlu-Anne-Çocuk Kombini-",
+      "price": 150,
+      "oldPrice": 195,
+      "starRate": 4,
+      "reviewCount": 250,
+      "stock": 2,
+      "imgSource": "./images/annevecocuk1.jpg"
+    },
+    {
+      "id": 11,
+      "details": "Modern Moda",
+      "name": "Bisiklet Yaka T-shirt",
+      "price": 104.99,
+      "oldPrice": null,
+      "starRate": 4,
+      "reviewCount": 150,
+      "stock": 1881,
+      "imgSource": "./images/modernmoda.jpg"
+    }
+  ]
+  

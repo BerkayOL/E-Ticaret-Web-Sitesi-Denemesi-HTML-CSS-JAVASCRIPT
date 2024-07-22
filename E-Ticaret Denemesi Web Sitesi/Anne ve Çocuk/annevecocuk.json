@@ -1,0 +1,69 @@
+[
+    {
+      "id": 30,
+      "details": "Anne-Çocuk Elbise",
+      "name": "Selin Baltacıoğlu-Anne-Çocuk Kombini-",
+      "price": 150,
+      "oldPrice": 195,
+      "starRate": 4,
+      "reviewCount": 250,
+      "stock": 2,
+      "imgSource": "./images/annevecocuk1.jpg"
+    },
+    {
+      "id": 31,
+      "details": "Anne-Çocuk Elbise",
+      "name": "Kalın Askılı ve Desenli",
+      "price": 120,
+      "oldPrice": 395,
+      "starRate": 3,
+      "reviewCount": 250,
+      "stock": 1832,
+      "imgSource": "./images/annevecocuk2.jpg"
+    },
+    {
+      "id": 32,
+      "details": "Anne-Çocuk&Baba",
+      "name": "Beyaz Tişört",
+      "price": 319.56,
+      "oldPrice": null,
+      "starRate": 4,
+      "reviewCount": 245,
+      "stock": 18,
+      "imgSource": "./images/annevecocuk3.jpg"
+    },
+    {
+      "id": 33,
+      "details": "Anne-Çocuk Elbise",
+      "name": "Trendyol",
+      "price": 179,
+      "oldPrice": 150,
+      "starRate": 3,
+      "reviewCount": 560,
+      "stock": 188,
+      "imgSource": "./images/annevecocuk4.jpg"
+    },
+    {
+      "id": 34,
+      "details": "Çocuk Elbise",
+      "name": "Little Honey Bunnies Çocuk Elbisesi",
+      "price": 350,
+      "oldPrice": null,
+      "starRate": 7,
+      "reviewCount": 333,
+      "stock": 11,
+      "imgSource": "./images/annevecocuk5.jpg"
+    },
+    {
+      "id": 35,
+      "details": "Kız-Erkek Çocuk",
+      "name": "'Happy Birthday Mommy'Yazılı Elbise",
+      "price": 195,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 130,
+      "stock": 81,
+      "imgSource": "./images/annevecocuk6.jpg"
+    }
+  ]
+  

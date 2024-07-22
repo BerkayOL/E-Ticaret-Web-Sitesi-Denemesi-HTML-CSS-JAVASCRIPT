@@ -1,0 +1,7 @@
+Merhaba,
+Projedeki herhangi bir yeri almak isterseniz istediğiniz gibi alabilir ve kullanabilirsiniz.
+Site Ekran Görüntüleri dosyada mevcut kontrol edebilirsiniz.
+bazı yerlerde hatalarım var ilk web site projem olduğundan kaynaklı çözemediğim yerler oldu.
+NOT:Sepet kısmındaki ödeme butonunu çözemedim display:none verdiğim halde öyle gözüküyor, çözebilecek olan varsa çözebilir.
+Sanırım JavaScriptte bir durum var ama bulamadım hatamı önceden böyle bir problem yoktu sonrasında  javascript ile uğraşırken fark ettim.
+Herkese Kolay gelsin.

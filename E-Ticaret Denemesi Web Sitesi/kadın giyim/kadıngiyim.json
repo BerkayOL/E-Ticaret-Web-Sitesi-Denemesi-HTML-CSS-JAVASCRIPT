@@ -1,0 +1,80 @@
+[
+    {
+      "id": 12,
+      "details": "İkmal Kadın Bej",
+      "name": "Keten Gömlek ve Pantolon",
+      "price": 749,
+      "oldPrice": 1029,
+      "starRate": 4,
+      "reviewCount": 250,
+      "stock": 23,
+      "imgSource": "./images/kadıngiyim1.jpg"
+    },
+    {
+      "id": 13,
+      "details": "Midi",
+      "name": "Kruvaze Yaka Elbise-Mavi",
+      "price": 719.99,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 250,
+      "stock": 1832,
+      "imgSource": "./images/kadıngiyim2.jpg"
+    },
+    {
+      "id": 14,
+      "details": "Armonika Kadın Siyah",
+      "name": "Tek Düğmeli Ceket",
+      "price": 349,
+      "oldPrice": 599.99,
+      "starRate": 4,
+      "reviewCount": 245,
+      "stock": 18,
+      "imgSource": "./images/kadıngiyim3.jpg"
+    },
+    {
+      "id": 15,
+      "details": "Siyah Desenli Kruvaze",
+      "name": "Yaka Dokuma Elbise",
+      "price": 274.90,
+      "oldPrice": 150,
+      "starRate": 3,
+      "reviewCount": 560,
+      "stock": 188,
+      "imgSource": "./images/kadıngiyim4.jpg"
+    },
+    {
+      "id": 16,
+      "details": "Kol Piliseli",
+      "name": "Tasarım Elbise - Siyah",
+      "price": 874,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 333,
+      "stock": 11,
+      "imgSource": "./images/kadıngiyim5.jpg"
+    },
+    {
+      "id": 17,
+      "details": "Marry See Çicek",
+      "name": "Desenli Mini Diz Üstü Elbise",
+      "price": 335,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 130,
+      "stock": 81,
+      "imgSource": "./images/kadıngiyim6.jpg"
+    },
+    {
+      "id": 18,
+      "details": "Beyaz Desenli Kruvaze Yaka Dokuma Elbise",
+      "name": "Yaka Dokuma Elbise",
+      "price": 285,
+      "oldPrice": null,
+      "starRate": 2,
+      "reviewCount": 100,
+      "stock": 111,
+      "imgSource": "./images/kadıngiyim7.jpg"
+    }
+  ]
+  

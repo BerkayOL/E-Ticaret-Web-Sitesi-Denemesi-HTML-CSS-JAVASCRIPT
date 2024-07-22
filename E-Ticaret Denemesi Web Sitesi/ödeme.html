@@ -1,0 +1,72 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="ödeme.css">
+    <link rel="stylesheet" href="./E-Ticaret Denemesi WEB/bootstrap/css/bootstrap.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="./E-Ticaret Denemesi WEB/toastr/toastr.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body style="background-color: whitesmoke;">
+    
+    <section>
+        <div class="ödeme__text" style="background-color: aliceblue;">
+            <h2 class="fatura_adresi">Fatura Adresi</h2>
+            <h3 class="ödeme__bilgileri">Ödeme Bilgileri</h3>
+            <h4 class="ödeme__icerigi">Kullanabilir Yöntemler</h4>
+            <div class="icon-container">
+                <i class="fa fa-cc-visa" style="color:navy;"></i>
+                <i class="fa fa-cc-amex" style="color:blue;"></i>
+                <i class="fa fa-cc-mastercard" style="color:red;"></i>
+                <i class="fa fa-cc-discover" style="color:orange;"></i>
+              </div>
+            <label for="cname" class="advesoyad">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+                    <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
+                  </svg>
+                Ad ve Soyad:</label><br/>
+            <input type="text" placeholder="Berkay Ay" class="advesoyadtext"><br/>
+            <label for="cemail" class="email">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                    <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586zm3.436-.586L16 11.801V4.697z"/>
+                  </svg>
+                e-posta:</label><br/>
+            <input type="text" placeholder="bekoo8181@gmail.com" class="emailtext">
+            <label for="ccname" class="kartismi">Kart Üzerindeki İsim:</label>
+            <input type="text" placeholder="Berkay Ay" class="kartismitext"><br/>
+            <label for="caddress" class="adres">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-vcard" viewBox="0 0 16 16">
+                    <path d="M5 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4m4-2.5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5M9 8a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 0 1h-4A.5.5 0 0 1 9 8m1 2.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5"/>
+                    <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2zM1 4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H8.96q.04-.245.04-.5C9 10.567 7.21 9 5 9c-2.086 0-3.8 1.398-3.984 3.181A1 1 0 0 1 1 12z"/>
+                  </svg>
+                Adres:</label><br/>
+            <input type="text" placeholder="Yeşil Sokak No:3 D:2" class="adrestext">
+            <label for="ccnum" class="kartnumara">Kart Numarası:</label>
+            <input type="text" placeholder="1111-2222-3333-4444" class="kartnumarasıtext"><br/>
+            <label for="ccity" class="sehir">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-fill" viewBox="0 0 16 16">
+                    <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z"/>
+                    <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293z"/>
+                  </svg>
+                Şehir:</label><br/>
+            <input type="text" placeholder="İstanbul" class="sehirtext" required>
+            <label for="cmonth" class="ay">Ay:</label>
+            <input type="text" placeholder="Ocak" class="aytext"><br/>
+            <label for="cdistrict" class="ilce">İlçe:</label><br/>
+            <input type="text" placeholder="Kartal" class="ilcetext">
+            <label for="cpostcode" class="postakodu">Posta Kodu:</label>
+            <input type="text" placeholder="34876" class="postakodutext">
+            <label for="cyear" class="yıl">Yıl:</label>
+            <input type="text" placeholder="24" class="yıltext">
+            <label for="ccvv" class="cvv">CVV:</label>
+            <input type="text" placeholder="244" class="cvvtext"><br/>
+            <input type="checkbox" class="checkbox">
+            <label for="productlist" class="checkboxtext">Gönderi Adresi fatura adresi ile aynı</label><br/>
+            <a href="delaytime.html" target="_self"><input type="button" value="Devam Et" class="button" ></a>
+        </div>
+        
+    </section>
+    <script src="./E-Ticaret Denemesi WEB/jquery/jquery.min.js"></script>
+           <script src="./E-Ticaret Denemesi WEB/toastr/toastr.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+
+<html>
+    <head>
+        <title>MAĞAZA DENEMELERİ</title>
+       <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+       <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css"/>
+       <link rel="stylesheet" href="./Ana Menü Mağazası/p1{.css"/>
+       <link href="./toastr/toastr.min.css" rel="stylesheet"/>
+
+       
+
+
+    </head>
+        <body>
+            <div class="hakkımızda fw-bold">
+                <a href="./hakkımızda.html" target="_self" style="text-decoration: none">
+                <li>Hakkımızda</li></a>
+            </div>
+         <nav class="navbar">
+             <h2 class="title"> Mağaza </h2>
+             <ul class="menü">
+                <li class="aktif"> <a href="./kadıngiyim.html" target="_self" class="kadıngiyim__tusu">Kadın Giyim</li></a> 
+             <li><a href="./store.html" target="_self" class="erkek_tusu">Erkek</li></a>
+             <li><a href="./anneveçocuk.html" target="_self" class="annecocuk__tusu">Anne&Çocuk</li></a>
+             <li><a href="./sporveoutdoor.html" target="_self" class="sporveoutdoor__tusu">Spor&Outdoor</li></a>
+             </ul>
+             <ul class="menuicons">
+                 
+                <div class="search-container">
+                    <form action="/search">
+                      <input type="text" placeholder="Aradığınız ürünü giriniz." name="q">
+                      <button type="submit"><i class="bi bi-search"></i></button>
+                    </form>
+                  </div>
+                    <a href="./Untitled-1.html" target="_self"><i class="bi bi-person"></i></a>   
+                   </i>
+                   </li>
+                <li class="sepeticon" onclick="Sepet();">
+                    <i class="bi bi-bag"></i>
+                    <span class="sepet"></span>
+                </li>
+                </ul>
+            </nav>
+            <section class="slider1">
+                <div class="slider">  
+                    <!-- Slider'ımızın ana gövdesi olacak -->   
+                   <div class="css-slider">
+                       <!--Her bir fade' bir slideshow bölümünü oluşturur.-->
+                       <div class="slide fade">
+                           <div class="number">1 / 3</div>
+                           <img src="./images/pullbear.jpg" class="slide-image" />
+                           <div class="text">İlk Görsel</div>
+                       </div>
+                   
+                       <div class="slide fade">
+                           <div class="number">2 / 3</div>
+                           <img src="./images/hm.png" class="slide-image" />
+                           <div class="text">İkinci Görsel</div>
+                       </div>
+                   
+                       <div class="slide fade">
+                           <div class="number">3 / 3</div>
+                           <img src="./images/defacto.jpg" class="slide-image" />
+                           <div class="text">Üçüncü Görsel</div>
+                       </div>
+                   
+                       <!-- İleri-Geri Butonları -->
+                       <a class="prev" onclick="slideRoute(-1)">&#10094;</a>
+                       <a class="next" onclick="slideRoute(1)">&#10095;</a>
+                   </div>
+                   <br/>
+                   
+                   <!--Slider'ımızın alt kısmında bulunacak pagination bölümü-->
+                   <div style="text-align:center">
+                       <span class="dot" onclick="currentSlide(1)"></span>
+                       <span class="dot" onclick="currentSlide(2)"></span>
+                       <span class="dot" onclick="currentSlide(3)"></span>
+                   </div>
+                   </div>
+                </section>
+                <h2 class="fw-bold fs-5">Öne Çıkanlar</h2>
+            <section class="store mt-5">
+
+                <div class="row product__list">
+              
+                </div>
+                
+            </section>
+            <div class="sepet__ekleme">
+                <div class="sepet__ürünleri">
+                    <i class="bi bi-x" onclick="Sepet();"></i>
+                    <h2 class="sepet__basligi">Seçtiğiniz Ürünler</h2>
+                    <ul class="sepet__listeleme">
+                        <li class="sepet_icerigi">
+                          Herhangi bir ürün seçimi yapmadınız.
+                        </li>
+
+                    </ul>
+                    <div class="sepet__toplam">
+                        <span class="toplam_yazi black fw-bold mb-2 fs-4 toplam_fiyat"></span>
+                        <a href="./ödeme.html" target="_self" style="text-decoration: none">
+                        <button class="button btnpay fs-5" id="odeme__button">Ödeme</button></a>
+                    </div>
+                </div>
+                
+            </div>
+          <div>
+            <a href="./Untitled-3.html" target="_self">
+           <img class="logo" src="./images/kanarya2.jpg" alt="Örnek Resim"></img></a>
+           </div>
+           <script src="./jquery/jquery.min.js"></script>
+           <script src="./toastr/toastr.min.js"></script>
+           <script
+            type="text/javascript"
+            src="./slider/slider1.js"
+           ></script>
+           <script type="text/javascript" src="./slider/slider1.js"></script>
+           <script type="text/javascript" src="./Ana Menü Mağazası/uygulamalar.js"></script>
+        </body>
+</html>

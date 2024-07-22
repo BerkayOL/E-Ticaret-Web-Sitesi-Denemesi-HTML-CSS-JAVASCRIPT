@@ -1,0 +1,69 @@
+[
+    {
+      "id": 36,
+      "details": "Decathlon",
+      "name": "Kamp Çadırı -4 Kişilik",
+      "price": 5250,
+      "oldPrice": null,
+      "starRate": 4,
+      "reviewCount": 250,
+      "stock": 23,
+      "imgSource": "./images/sporveoutdoor1.jpg"
+    },
+    {
+      "id": 37,
+      "details": "Aydın Sport",
+      "name": "58kg Z-Bar ve Düz Bar",
+      "price": 1999,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 250,
+      "stock": 1832,
+      "imgSource": "./images/sporveoutdoor2.jpg"
+    },
+    {
+      "id": 38,
+      "details": "Nike",
+      "name": "Air Monarch Spor Ayakkabı",
+      "price": 2899,
+      "oldPrice": null,
+      "starRate": 4,
+      "reviewCount": 245,
+      "stock": 18,
+      "imgSource": "./images/sporveoutdoor3.jpg"
+    },
+    {
+      "id": 39,
+      "details": "Decathlon",
+      "name": "Outdoor Sırt Çantası",
+      "price": 265,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 560,
+      "stock": 188,
+      "imgSource": "./images/sporveoutdoor4.jpg"
+    },
+    {
+      "id": 40,
+      "details": "Under Armour",
+      "name": "Beyaz Erkek Koşu Ayakkabısı",
+      "price": 2990,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 333,
+      "stock": 11,
+      "imgSource": "./images/sporveoutdoor5.jpg"
+    },
+    {
+      "id": 41,
+      "details": "Decathlon",
+      "name": "Outdoor Şişme Kano",
+      "price": 15990,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 130,
+      "stock": 81,
+      "imgSource": "./images/sporveoutdoor6.jpg"
+    }
+  ]
+  

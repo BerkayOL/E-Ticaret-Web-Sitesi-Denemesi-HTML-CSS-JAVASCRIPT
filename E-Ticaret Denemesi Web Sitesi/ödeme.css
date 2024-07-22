@@ -1,0 +1,239 @@
+.body{font-family: Arial;
+font-size: 17px;
+padding: 8px;
+}
+.ödeme__text{
+    position: relative;
+    top:5rem;
+    height:85%;
+    width: 60%;
+    left:20rem;
+}
+.ödeme__text .fatura_adresi{
+    position: relative;
+    font-size:2.5ch;
+    top:3.5rem;
+    left:1rem;
+}
+.ödeme__text .ödeme__bilgileri{
+
+    position: relative;
+    font-size:2ch;
+    text-align: right;
+    right:50%;
+    
+}
+.ödeme__text .ödeme__icerigi{
+    position: relative;
+    font-size:1.9ch;
+    text-align: right;
+    right:17%;
+
+}
+.ödeme__text .icon-container{
+    position: relative;
+    text-align: right;
+    font-size: 2.5ch;
+    right:19%;
+
+}
+.ödeme__text .advesoyad{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:-2rem;
+}
+.ödeme__text .advesoyadtext{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:-1rem;
+    width: 40%;
+    height:7%;
+}
+.ödeme__text .email{
+    position: relative;
+    text-align: left;
+    left:1rem;
+
+}
+.ödeme__text .emailtext{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:1rem;
+    width: 40%;
+    height:7%;
+}
+.ödeme__text .kartismi{
+    position:relative;
+    text-align: right;
+    left:4.4rem;
+    top:-1.8rem;
+    
+
+}
+.ödeme__text .kartismitext{
+    position: relative;
+    text-align: left;
+    right:4.8rem;
+    top:1rem;
+    width: 40%;
+    height:7%;
+    
+}
+.ödeme__text .adres{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:1.5rem;
+
+}
+.ödeme__text .adrestext{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    width: 40%;
+    height:7%;
+    top:2.5rem;
+
+}
+.ödeme__text .kartnumara{
+    position:relative;
+    text-align: right;
+    left:4.4rem;
+    top:-0.2rem;
+}
+.ödeme__text .kartnumarasıtext{
+    position: relative;
+    text-align: left;
+    right:2.2rem;
+    top:2.5rem;
+    width: 40%;
+    height:7%;
+}
+.ödeme__text .sehir{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:3rem;
+}
+.ödeme__text .sehirtext{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:4rem;
+    width: 40%;
+    height:7%;
+}
+.ödeme__text .ay{
+    position:relative;
+    text-align: right;
+    left:4.4rem;
+    top:1rem;
+
+}
+.ödeme__text .aytext{
+    position: relative;
+    text-align: left;
+    left:2.6rem;
+    top:4rem;
+    width: 40%;
+    height:7%;
+
+}
+.ödeme__text .ilce{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:5rem;
+}
+.ödeme__text .ilcetext{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:6rem;
+    width: 18%;
+    height:7%;
+}
+.ödeme__text .postakodu{
+    position: relative;
+    text-align: left;
+    left:2.5rem;
+    top:3rem;
+}
+.ödeme__text .postakodutext{
+    position: relative;
+    text-align: left;
+    left:-3rem;
+    top:6rem;
+    width: 18%;
+    height:7%;
+}
+.ödeme__text .yıl{
+    position:relative;
+    text-align: right;
+    left:1rem;
+    top:3rem;
+
+}
+.ödeme__text .yıltext{
+    position: relative;
+    text-align: left;
+    left:-0.7rem;
+    top:6rem;
+    width: 18%;
+    height:7%;
+}
+.ödeme__text .cvv{
+    position:relative;
+    text-align: right;
+    left:1.1rem;
+    top:3rem;
+}
+.ödeme__text .cvvtext{
+    position: relative;
+    text-align: left;
+    left:-1.2rem;
+    top:6rem;
+    width: 18%;
+    height:7%;
+}
+.ödeme__text .checkbox{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:7rem;
+}
+.ödeme__text .checkboxtext{
+    position: relative;
+    text-align: left;
+    left:1rem;
+    top:6.9rem;
+}
+.ödeme__text .button{
+    color:white;
+    position: relative;
+    text-align: center;
+    top:8rem;
+    left:4.5rem;
+    width: 80%;
+    cursor: pointer;
+    background-color: #f4a03b;
+    opacity:2;
+    transition-duration:30s;
+    animation-delay: 5s;
+}
+.delaytime{
+    position: relative;
+    text-align: center;
+    top:10rem;
+}
+.delaytime .text1{
+    font-size: 8ch;
+    color:bold;
+}
+.delaytime .text2{
+    font-size: 3.5ch;
+    color:bold;
+}

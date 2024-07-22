@@ -1,0 +1,125 @@
+[
+    {
+      "id": 19,
+      "details": "Regular Fit Normal Kesim",
+      "name": "Bisiklet Yaka Siyah T-Shirt",
+      "price": 145,
+      "oldPrice": 195,
+      "starRate": 4,
+      "reviewCount": 250,
+      "stock": 2,
+      "imgSource": "./images/kıyafet1.jpg"
+    },
+    {
+      "id": 20,
+      "details": "Lufian Erkek",
+      "name": "Polo Yaka T-Shirt",
+      "price": 350,
+      "oldPrice": 395,
+      "starRate": 3,
+      "reviewCount": 250,
+      "stock": 1832,
+      "imgSource": "./images/lufian.jpg"
+    },
+    {
+      "id": 21,
+      "details": "Madmext Füme Cep Detaylı",
+      "name": "Basic Erkek Tişört M Beden ",
+      "price": 445,
+      "oldPrice": 599.99,
+      "starRate": 4,
+      "reviewCount": 245,
+      "stock": 18,
+      "imgSource": "./images/tshirt.jpg"
+    },
+    {
+      "id": 22,
+      "details": "DeFacto Erkek New Regular Fit",
+      "name": "Basic Kısa Kollu Erkek Tişört Mavi",
+      "price": 179,
+      "oldPrice": 150,
+      "starRate": 3,
+      "reviewCount": 560,
+      "stock": 188,
+      "imgSource": "./images/defactotshirt.jpg"
+    },
+    {
+      "id": 23,
+      "details": "FAVORİST GREAT MINDS",
+      "name": " Baskılı T-SHİRT Serisi",
+      "price": 175,
+      "oldPrice": null,
+      "starRate": 7,
+      "reviewCount": 333,
+      "stock": 11,
+      "imgSource": "./images/favorist.jpg"
+    },
+    {
+      "id": 24,
+      "details": "Decathlon",
+      "name": "Erkek Koşu Tişörtü",
+      "price": 410,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 130,
+      "stock": 81,
+      "imgSource": "./images/decathlon.jpg"
+    },
+    {
+      "id": 25,
+      "details": "Logo Siyah",
+      "name": " Oversize T-shirt 2.0XL",
+      "price": 619,
+      "oldPrice": null,
+      "starRate": 1,
+      "reviewCount": 100,
+      "stock": 111,
+      "imgSource": "./images/oversize.jpg"
+    },
+
+    {
+      "id": 26,
+      "details": "Defacto Erkek",
+      "name": " Regular Fit Bisiklet Yaka Tişört",
+      "price": 139,
+      "oldPrice": null,
+      "starRate": 2,
+      "reviewCount": 333,
+      "stock": 1834,
+      "imgSource": "./images/erkekregular.jpg"
+    },
+    {
+      "id": 27,
+      "details": "Favorist Baskılı",
+      "name": "T-shirt Serisi L BEDEN",
+      "price": 179.90,
+      "oldPrice": null,
+      "starRate": 4,
+      "reviewCount": 320,
+      "stock": 11,
+      "imgSource": "./images/favoristbaskı.jpg"
+    },
+    {
+      "id": 28,
+      "details": "GRUNGE",
+      "name": " Regular T-shirt XXL/Siyah",
+      "price": 319,
+      "oldPrice": null,
+      "starRate": 3,
+      "reviewCount": 270,
+      "stock": 1881,
+      "imgSource": "./images/grunge.jpg"
+    },
+    {
+      "id": 29,
+      "details": "Modern Moda",
+      "name": "Bisiklet Yaka T-shirt",
+      "price": 104.99,
+      "oldPrice": null,
+      "starRate": 4,
+      "reviewCount": 150,
+      "stock": 1881,
+      "imgSource": "./images/modernmoda.jpg"
+    }
+  ]
+  
